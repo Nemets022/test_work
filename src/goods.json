@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Apple iPad Air (2019) 64Gb Wi-Fi",
+        "price": "18000",
+		"img": "appleIpad64gb.webp",
+		"title": "Краткое описание товара"
+    },
+    {
+        "id": "2",
+        "name": "Apple iPad (2019) 128Gb Wi-Fi",
+        "price": "25000",
+		"img": "appleIpad.webp",
+		"title": "Краткое описание товара"
+    },
+    {
+        "id": "3",
+        "name": "Apple iPad (2019) 32Gb Wi-Fi",
+        "price": "35000",
+		"img": "appleIpad.webp",
+		"title": "Краткое описание товара"
+    },
+    {
+        "id": "4",
+        "name": "Samsung Galaxy S8 64GB",
+        "price": "20000",
+		"img": "samsungalaxy.webp",
+		"title": "Краткое описание товара"
+	},
+	{
+        "id": "6",
+        "name": "Samsung Galaxy S9 64GB",
+        "price": "20000",
+		"img": "samsungalaxys9.webp",
+		"title": "Краткое описание товара"
+    },
+    {
+        "id": "5",
+        "name": "Телевизор SUPRA STV-LC22",
+        "price": "19000",
+		"img": "tvsuprawebp.webp",
+		"title": "Краткое описание товара"
+    }
+]
